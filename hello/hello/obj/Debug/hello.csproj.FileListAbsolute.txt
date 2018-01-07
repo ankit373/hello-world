@@ -1,0 +1,7 @@
+C:\Users\Ankit(PC)\Source\Repos\hello\hello\bin\Debug\hello.exe.config
+C:\Users\Ankit(PC)\Source\Repos\hello\hello\bin\Debug\hello.exe
+C:\Users\Ankit(PC)\Source\Repos\hello\hello\bin\Debug\hello.pdb
+C:\Users\Ankit(PC)\Source\Repos\hello\hello\obj\Debug\hello.csprojResolveAssemblyReference.cache
+C:\Users\Ankit(PC)\Source\Repos\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+C:\Users\Ankit(PC)\Source\Repos\hello\hello\obj\Debug\hello.exe
+C:\Users\Ankit(PC)\Source\Repos\hello\hello\obj\Debug\hello.pdb

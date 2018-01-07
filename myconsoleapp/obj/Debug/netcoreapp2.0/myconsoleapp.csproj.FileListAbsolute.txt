@@ -1,0 +1,10 @@
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.deps.json
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.runtimeconfig.json
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.runtimeconfig.dev.json
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.dll
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\bin\Debug\netcoreapp2.0\myconsoleapp.pdb
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.AssemblyInfoInputs.cache
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.AssemblyInfo.cs
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.dll
+C:\Users\Ankit(PC)\Source\Repos\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.pdb
